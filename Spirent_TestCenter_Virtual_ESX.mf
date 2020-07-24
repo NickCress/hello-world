@@ -1,0 +1,2 @@
+SHA1(Spirent_TestCenter_Virtual_ESX.ovf)= 0d23ce900425e6274fc1fd20e87c7a35ba8be976
+SHA1(Spirent_TestCenter_Virtual_ESX-disk1.vmdk)= 40f016011042f6e587e25b7c27cd562a4d46f7b9
